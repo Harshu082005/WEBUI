@@ -47,6 +47,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 [![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)
 
+[![Screenshot](https://github.com/user-attachments/assets/f8416994-d081-4224-bf55-1a8d28293acb)](img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/a748de22-08d1-4201-aa6f-e3e5446cf053" /)
+
 
 
 
